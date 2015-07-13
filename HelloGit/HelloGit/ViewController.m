@@ -9,7 +9,7 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+    // Second Commit
 
 @end
 
@@ -27,6 +27,8 @@
 }
 -(void)mergeCommit{
     NSLog(@"mergeCommit");
+    NSLog(@"third commit");
+
 }
 
 @end
